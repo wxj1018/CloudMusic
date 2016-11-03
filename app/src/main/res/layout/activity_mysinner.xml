@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_red_dark">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/fb"
+            android:onClick="backToMyMusic"
+            android:padding="16px"
+            android:background="@android:color/holo_red_dark"/>
+
+        <TextView
+            style="@style/BackBarTextViewStyle"
+            android:text="我的歌手"
+            android:textColor="@android:color/background_light"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

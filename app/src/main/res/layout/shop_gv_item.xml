@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+<ImageView
+    android:layout_marginTop="@dimen/padding_margin_20"
+    android:id="@+id/shop_gv_item_image"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:src="@drawable/shop_gv_item_image"/>
+    <TextView
+        android:id="@+id/shop_gv_item_discription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="网易云音乐今年最流行图标"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/shop_gv_item_price"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/padding_margin_10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="￥99"
+        android:textSize="@dimen/font_size_s"
+        android:textColor="@color/textcolor_checked"/>
+</LinearLayout>

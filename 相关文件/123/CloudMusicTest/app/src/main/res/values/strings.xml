@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CloudMusic</string>
+    <string name="推荐歌单">推荐歌单</string>
+    <string name="独家放送">独家放送</string>
+    <string name="主播电台">主播电台</string>
+    <string name="最新音乐">最新音乐</string>
+    <string name="推荐MV">推荐MV</string>
+    <string name="全部歌单">全部歌单</string>
+    <string name="精品歌单">精品歌单</string>
+</resources>

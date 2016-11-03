@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/textcolor_checked"
+    android:layout_centerVertical="true">
+    <Button
+        android:id="@+id/back"
+        android:layout_marginLeft="10dp"
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/back"/>
+    <TextView
+        android:id="@+id/tv_headertitle"
+        android:layout_marginLeft="20dp"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="我的消息"
+        android:gravity="center"
+        android:textSize="@dimen/font_size_x"
+        android:textColor="@color/white"
+        />
+</LinearLayout>

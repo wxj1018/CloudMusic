@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <TextView
+            android:id="@+id/tv_single_music_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="告白气球"/>
+        <TextView
+            android:id="@+id/tv_single_music_zj"
+            android:layout_below="@id/tv_single_music_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="周杰伦-周杰伦的床边故事"/>
+        <Button
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@drawable/mv"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_single_music_name"
+            />
+    </RelativeLayout>
+
+
+    <Button
+        android:id="@+id/btn_pop_window"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:background="@drawable/gengduo"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        />
+
+</RelativeLayout>
+
+

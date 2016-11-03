@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/vp_fragment_main_three"
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+
+        </android.support.v4.view.ViewPager>
+
+        <ListView
+            android:id="@+id/lv_one_fragment_main_three"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </ListView>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:paddingLeft="7dp"
+                    android:src="@drawable/profile_icn_headline"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:paddingLeft="7dp"
+                    android:textStyle="bold"
+                    android:text="精彩节目推荐"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/lv_two_fragment_main_three"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </ListView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:paddingLeft="7dp"
+                    android:src="@drawable/profile_icn_headline"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:paddingLeft="7dp"
+                    android:textStyle="bold"
+                    android:text="每天电台精选 - 订阅更精彩"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:paddingRight="7dp"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="7dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="140dp"
+                        android:src="@drawable/a"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/精品歌单"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_marginLeft="7dp"
+                    android:paddingRight="7dp"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="140dp"
+                        android:src="@drawable/c"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="超燃电音"/>
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_marginLeft="7dp"
+                    android:paddingRight="7dp"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="140dp"
+                        android:src="@drawable/c"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="超燃电音"/>
+                </LinearLayout>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:paddingRight="7dp"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="7dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="140dp"
+                        android:src="@drawable/a"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/精品歌单"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_marginLeft="7dp"
+                    android:paddingRight="7dp"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="140dp"
+                        android:src="@drawable/c"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="超燃电音"/>
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_marginLeft="7dp"
+                    android:paddingRight="7dp"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+
+                    <ImageButton
+                        android:layout_width="match_parent"
+                        android:layout_height="140dp"
+                        android:src="@drawable/c"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="超燃电音"/>
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:paddingLeft="7dp"
+                    android:src="@drawable/profile_icn_headline"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:paddingLeft="7dp"
+                    android:textStyle="bold"
+                    android:text="热门电台"/>
+            </LinearLayout>
+        </RelativeLayout>
+        <GridView
+            android:id="@+id/gv_fragment_main_three"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </GridView>
+
+    </LinearLayout>
+
+</ScrollView>

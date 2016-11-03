@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ll_fragment_picture"
+    >
+    <RelativeLayout
+        android:layout_gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:background="@drawable/app_widget_default"
+        android:id="@+id/rll_picture_ui_1"
+        android:layout_marginTop="52dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+    <ImageView
+        android:id="@+id/imageview_picture_ui_1_big"
+        android:layout_centerInParent="true"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:src="@drawable/actionbar_mv_dld"/>
+
+
+</RelativeLayout>
+    <ImageView
+        android:id="@+id/imageview_picture_ui_1"
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:layout_alignRight="@+id/rll_picture_ui_1"
+        android:layout_alignEnd="@+id/rll_picture_ui_1"
+        android:src="@drawable/play_needle"
+        android:layout_alignParentTop="true" />
+
+
+    <ImageView
+        android:id="@+id/datum_music"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="100dp"
+        android:background="@drawable/abc_ic_menu_moreoverflow_mtrl_alpha"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:id="@+id/live_music"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:background="@drawable/live_music_selector"
+        android:layout_alignParentBottom="true"
+       />
+
+    <ImageView
+        android:id="@+id/download_music"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@drawable/play_download_selector"
+        android:layout_alignTop="@+id/live_music"
+        android:layout_centerHorizontal="true" />
+
+
+
+</RelativeLayout>

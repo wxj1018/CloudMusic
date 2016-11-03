@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recommend_icn_daily_prs.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\recommend_icn_daily_prs.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recommend_icn_radio.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\recommend_icn_radio.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recommend_icn_mv.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\recommend_icn_mv.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lay_protype_vip.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\lay_protype_vip.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recommend_icn_newest.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\recommend_icn_newest.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recommend_icn_upbill.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\recommend_icn_upbill.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recommend_icn_daily.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\recommend_icn_daily.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recommend_icn_recmd.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\recommend_icn_recmd.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lay_protype_member.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\lay_protype_member.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\panghaibang_4.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\panghaibang_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recommend_icn_arr.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\recommend_icn_arr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\panghaibang_1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\panghaibang_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recommend_icn_exclusive.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\recommend_icn_exclusive.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lay_protype_runfm.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\lay_protype_runfm.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recommend_icn_fm_prs.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\recommend_icn_fm_prs.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lay_protype_offline_bag.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\lay_protype_offline_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_icn_headline.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\profile_icn_headline.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\panghaibang_y.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\panghaibang_y.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\panghaibang_3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\panghaibang_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recommend_icn_fm.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\recommend_icn_fm.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lists_icn_arr.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\lists_icn_arr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lay_icn_artist.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\lay_icn_artist.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\panghaibang_g.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\panghaibang_g.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recommend_icn_upbill_prs.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\recommend_icn_upbill_prs.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lists_icn_best.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\lists_icn_best.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\panghaibang_2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\panghaibang_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lay_protype_vip_pro.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\lay_protype_vip_pro.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lay_protype_listen.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\lay_protype_listen.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\panghaibang_5.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\CloudMusicTest\\app\\src\\main\\res\\drawable-hdpi-v4\\panghaibang_5.png"
+    }
+]

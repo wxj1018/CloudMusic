@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:layout_margin="10dp"
+    android:id="@+id/ll_other">
+
+    <TextView
+        android:id="@+id/tv_device_name1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.0"
+        android:text="名称"
+        android:textColor="#ff323232"
+        android:textSize="16.0sp"
+        android:typeface="monospace"/>
+
+    <ImageButton
+        android:id="@+id/Ibtn_other_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/wk"/>
+
+</LinearLayout>

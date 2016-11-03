@@ -1,0 +1,51 @@
+package com.app.cloudmusic.cloudmusic.fragment;
+
+import android.os.Bundle;
+import android.support.annotation.Nullable;
+import android.support.v4.app.Fragment;
+import android.support.v4.view.ViewPager;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.GridView;
+import android.widget.ImageView;
+import android.widget.SimpleAdapter;
+
+import com.app.cloudmusic.cloudmusic.R;
+import com.app.cloudmusic.cloudmusic.adapter.MyPagerAdapter;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+/**
+ * Created by Administrator on 2016/10/9 0009.
+ */
+public class MainMusicFragment_one extends Fragment{
+
+    private ViewPager viewPager;
+    private SimpleAdapter adapter;
+    private View view;
+    private ImageView iv1,iv2,iv3,iv4,iv5,iv6;
+    int []imageIDs = {R.drawable.lay_protype_listen,R.drawable.lay_protype_member,
+    R.drawable.lay_protype_offline_bag,R.drawable.lay_protype_runfm,R.drawable.lay_protype_vip,
+    R.drawable.lay_protype_vip_pro};
+
+    @Nullable
+    @Override
+    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+        view = inflater.inflate(R.layout.fragment_main_one,container,false);
+        ininView();
+        MyPagerAdapter adapter = new MyPagerAdapter(inflater,imageIDs);
+        viewPager.setAdapter(adapter);
+
+        return view;
+    }
+
+    private void ininView() {
+        //实例化对象
+        viewPager = (ViewPager)view .findViewById(R.id.vp_fragment_main_one);
+
+    }
+}

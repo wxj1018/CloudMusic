@@ -1,0 +1,28 @@
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cloudmusic.app.com.cloudmusic.fragment.DynamicFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/lv_d_mf"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusable="false"></ListView>
+
+        <ImageButton
+            android:id="@+id/ibtn_dy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="16px"
+            android:src="@mipmap/btmlay_icn_write" />
+    </RelativeLayout>
+
+
+</android.support.v4.widget.SwipeRefreshLayout>

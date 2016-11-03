@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <include layout="@layout/gedan_tool_bar"/>
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp"
+            android:background="@color/橘色">
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/frameLayout">
+
+                <ImageButton
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/d"
+                    android:layout_gravity="right|bottom"
+                    android:id="@+id/ib_tupian_activity_gedan" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_gravity="right">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imageView5"
+                        android:layout_marginRight="0dp"
+                        android:layout_marginTop="28dp"
+                        android:src="@drawable/discover_icn_earphone"
+                        android:layout_gravity="right|top" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="24602"
+                        android:id="@+id/tv_number_activity_gedan"
+                        android:layout_marginTop="23dp"
+                        android:layout_marginRight="6dp"
+                        android:textColor="@color/colorwrite"
+                        android:layout_gravity="right|top" />
+                </LinearLayout>
+
+
+            </FrameLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="歌单名测试"
+                android:textColor="@color/colorwrite"
+                android:id="@+id/tv_gedanming_activity_gedan"
+                android:layout_marginLeft="27dp"
+                android:layout_marginStart="27dp"
+                android:layout_above="@+id/tv_name_activity_gedan"
+                android:layout_toRightOf="@+id/frameLayout"
+                android:layout_toEndOf="@+id/frameLayout"
+                android:layout_marginBottom="26dp" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left|center"
+                android:text="测试  〉"
+                android:textColor="@color/colorwrite"
+                android:drawableLeft="@drawable/lay_icn_artist"
+                android:background="@color/橘色"
+                android:id="@+id/tv_name_activity_gedan"
+                android:layout_alignBottom="@+id/frameLayout"
+                android:layout_alignLeft="@+id/tv_gedanming_activity_gedan"
+                android:layout_alignStart="@+id/tv_gedanming_activity_gedan"
+                android:layout_marginBottom="24dp" />
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/橘色"
+            android:layout_weight="0.09">
+
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="收藏数"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/rcd_icn_fav"
+                android:textColor="@color/colorwrite"
+                android:background="@color/橘色"
+                android:layout_gravity="center"
+                android:id="@+id/bt_shoucang_activity_gedan" />
+
+            <Button
+                android:background="@color/橘色"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="评论数"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/nact_icn_cmt"
+                android:textColor="@color/colorwrite"
+                android:id="@+id/bt_pinglun_activity_gedan" />
+
+            <Button
+                android:background="@color/橘色"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="分享数"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/lrc_btm_icn_share"
+                android:textColor="@color/colorwrite"
+                android:id="@+id/bt_fenxiang_activity_gedan" />
+
+            <Button
+                android:background="@color/橘色"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="下载"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:drawableTop="@drawable/play_icn_dld_prs"
+                android:textColor="@color/colorwrite"
+                android:id="@+id/bt_xiazai_activity_gedan" />
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_weight="0.12">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/lay_icn_play"
+            android:id="@+id/imageView6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="播放全部"
+            android:layout_gravity="center"
+            android:id="@+id/textView6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="（共N首）"
+            android:layout_gravity="center"
+            android:id="@+id/textView7" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="23dp"
+            android:id="@+id/radioButton"
+            android:button="@null"
+            android:layout_marginRight="15dp"
+            android:drawableTop="@drawable/list_icn_mng"/>
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_activity_gedan"
+        android:layout_width="match_parent"
+        android:layout_height="153dp"
+        android:layout_weight="0.92">
+
+    </ListView>
+
+</LinearLayout>

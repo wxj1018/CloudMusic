@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/橘色">
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_fanhui_tool_bar"
+        android:text="返回"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="歌单"
+        android:id="@+id/textView8"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/bt_fanhui_tool_bar"
+        android:layout_toEndOf="@+id/bt_fanhui_tool_bar"
+        android:layout_marginLeft="31dp"
+        android:layout_marginStart="31dp" />
+</RelativeLayout>

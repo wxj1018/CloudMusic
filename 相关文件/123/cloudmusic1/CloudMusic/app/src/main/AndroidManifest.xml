@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.administrator.cloudmusic">
+
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity
+            android:name=".SideSlipActivity"
+            android:theme="@style/dialogstyle" />
+        <activity android:name=".EmpActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.MyMessageActivity" />
+        <activity android:name=".activity.ShopActivity" />
+        <activity android:name=".activity.VipActivity" />
+        <activity android:name=".activity.OnlineMusicActivity" />
+        <activity android:name=".activity.SoundHoundActivity" />
+        <activity
+            android:name=".activity.DriverModeActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait" />
+        <activity android:name=".activity.ThemeChangeActivity" />
+        <activity android:name=".activity.MusicAlarmActivity" />
+        <activity android:name=".activity.SettingActivity" />
+        <activity android:name=".secondactivity.LoginActivity" />
+        <activity android:name=".secondactivity.OpenVipActivity" />
+        <activity android:name=".secondactivity.SQActivity" />
+        <activity android:name=".secondactivity.VipUseActivity" />
+        <activity android:name=".secondactivity.VipSaleActivity" />
+        <activity android:name=".secondactivity.VipSuperTagActivity" />
+        <activity android:name=".secondactivity.VipLotteryActivity" />
+        <activity android:name=".secondactivity.VipUpdateActivity" />
+        <activity android:name=".secondactivity.ToFriendActivity" />
+        <activity android:name=".secondactivity.VipUseRedeemCodeActivity" />
+        <activity android:name=".secondactivity.VipMyBuyMusicActivity" />
+        <activity android:name=".activity.FootTipsActivity" />
+        <activity android:name=".onlineactivity.LiantongActivity" />
+        <activity android:name=".onlineactivity.DianxinActivity" />
+        <activity android:name=".onlineactivity.TipsActivity" />
+        <activity
+            android:name=".activity.TimerStopActivity"
+            android:theme="@style/dialogstyle" />
+        <activity android:name=".shopactivity.IntegralActivity" />
+        <activity android:name=".shopactivity.BillActivity" />
+        <activity android:name=".shopactivity.HowActivity" />
+
+        <service
+            android:name=".TimerService"
+            android:enabled="true"
+            android:exported="true"></service>
+    </application>
+
+</manifest>

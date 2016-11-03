@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout_fragment_main">
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+
+            >
+            <RadioButton
+                android:id="@+id/rb_tuijian_fragment_main"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:button="@null"
+                android:gravity="center"
+
+                android:text="个性推荐"
+                android:textColor="@color/colorRed"
+                />
+            <RadioButton
+                android:id="@+id/rb_gedan_fragment_main"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:button="@null"
+                android:gravity="center"
+                android:text="歌单"
+                android:textColor="@color/color"/>
+            <RadioButton
+                android:id="@+id/rb_diantai_fragment_main"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:button="@null"
+                android:gravity="center"
+                android:text="主播电台"
+                android:textColor="@color/color"/>
+            <RadioButton
+                android:id="@+id/rb_paihang_fragment_main"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:button="@null"
+                android:gravity="center"
+                android:text="排行榜"
+                android:textColor="@color/color"/>
+        </RadioGroup>
+    </LinearLayout>
+
+        <LinearLayout
+                       android:layout_width="match_parent"
+            android:layout_height="3dp">
+
+             <ImageView
+                 android:id="@+id/iv_tabline_fragment"
+                 android:layout_width="80dp"
+                 android:layout_height="match_parent"
+                 android:background="@color/colorRed" />
+         </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_fragment_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v4.view.ViewPager>
+
+
+
+</LinearLayout>

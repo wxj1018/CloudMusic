@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+    <FrameLayout
+        android:id="@+id/sound_fl_activity_sound"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/sound_bg_activity_sound"/>
+        <TextView
+            android:id="@+id/start_know_fragment_sound"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="开始识别"
+            android:drawableTop="@drawable/sound_start_know_activity_sound"/>
+        <ImageView
+            android:id="@+id/iv_red_start_fragment_sound"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:src="@drawable/sound_red_circle_activity_sound"/>
+
+    </FrameLayout>
+    <TextView
+        android:id="@+id/sound_tvtop_activity_sound"
+        android:textSize="@dimen/font_size_x"
+        android:layout_below="@id/sound_fl_activity_sound"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="正在识别"
+        android:visibility="gone"/>
+    <TextView
+        android:id="@+id/sound_tvbelow_activity_sound"
+        android:layout_margin="@dimen/padding_margin_10"
+        android:textSize="@dimen/font_size"
+        android:layout_below="@id/sound_tvtop_activity_sound"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="听歌识曲，识别你周围播放的歌曲"/>
+
+</RelativeLayout>

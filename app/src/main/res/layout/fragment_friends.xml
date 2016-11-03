@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cloudmusic.app.com.cloudmusic.fragment.FriendsFragment">
+
+    <Button
+        android:id="@+id/btn_know_f"
+        style="@style/FriendsHendButton"
+        android:drawableLeft="@mipmap/msg_icn_user"
+        android:text="  认识的人" />
+
+    <Button
+        android:id="@+id/btn_star_f"
+        style="@style/FriendsHendButton"
+        android:drawableLeft="@mipmap/msg_icn_v"
+        android:text="  明星用户" />
+
+    <Button
+        android:id="@+id/btn_talent_f"
+        style="@style/FriendsHendButton"
+        android:drawableLeft="@mipmap/msg_icn_daren"
+        android:text="  音乐达人" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="认识的人" />
+
+    <ListView
+        android:id="@+id/lv_f_mf"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/background_light"
+        android:padding="16px"></ListView>
+</LinearLayout>

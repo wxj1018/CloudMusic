@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    android:padding="16px">
+
+    <ImageView
+        android:id="@+id/iv_user_dy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="16px"
+        android:src="@drawable/logo" />
+
+    <LinearLayout
+        android:id="@+id/l1_item_dy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/iv_user_dy"
+        android:layout_alignBottom="@id/iv_user_dy"
+        android:layout_toRightOf="@id/iv_user_dy"
+        android:orientation="horizontal">
+
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/tv_user_dy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="5dp"
+                android:textColor="@android:color/holo_blue_dark"
+                android:text="用户名" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_toEndOf="@id/tv_user_dy"
+                android:textColor="@android:color/black"
+                android:text="分享单曲：" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:textColor="@android:color/black"
+                android:text="你好" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@mipmap/nact_btn_icn_add"
+            android:layout_gravity="center_vertical"
+            android:textColor="@android:color/black"
+            android:background="@drawable/selector_btn"
+            android:clickable="true"
+            android:text="关注"/>
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@mipmap/list_head_icn_open" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/l2_item_dy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/l1_item_dy"
+        android:layout_toRightOf="@id/iv_user_dy"
+        android:layout_marginTop="16px"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:text="在我们这里有爱情"/>
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:columnCount="2"></GridLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_btn"
+            android:clickable="true">
+            <ImageView
+                android:id="@+id/iv_music_itemdy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/ic_launcher"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@id/iv_music_itemdy"
+                android:layout_toRightOf="@id/iv_music_itemdy"
+                android:textColor="@android:color/black"
+                android:text="歌曲名"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/iv_music_itemdy"
+                android:layout_alignBottom="@id/iv_music_itemdy"
+                android:textColor="@android:color/black"
+                android:text="歌手"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/l2_item_dy"
+        android:background="@android:color/background_light"
+        android:gravity="right">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@mipmap/nact_icn_praise"
+            android:background="@android:color/background_light"
+            style="?android:attr/buttonStyleSmall"
+            android:text="123"
+            android:textColor="@android:color/black"
+            android:layout_marginRight="16px"/>
+
+        <Button
+            android:id="@+id/ibtn_criticism_dy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@mipmap/nact_icn_cmt"
+            android:background="@android:color/background_light"
+            style="?android:attr/buttonStyleSmall"
+            android:text="123"
+            android:textColor="@android:color/black"
+            android:layout_marginRight="16px"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@mipmap/nact_icn_share"
+            android:background="@android:color/background_light"
+            style="?android:attr/buttonStyleSmall"
+            android:text="123"
+            android:textColor="@android:color/black"
+            android:layout_marginRight="16px"/>
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

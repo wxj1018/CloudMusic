@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/colorwrite">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/vp_fragment_main_one"
+            android:layout_width="match_parent"
+            android:layout_height="150dp">
+
+        </android.support.v4.view.ViewPager>
+
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+            <RadioButton
+                android:layout_width="128dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingTop="10dp"
+                android:button="@null"
+                android:drawableTop="@drawable/selector_recommemd_one"
+                android:text="私人FM"
+                android:checked="false"
+                android:id="@+id/rb_fm_fragment_main_one" />
+            <RadioButton
+                android:layout_width="131dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:button="@null"
+                android:drawableTop="@drawable/selector_recommemd_two"
+                android:text="每日歌曲推荐"
+                android:checked="false"
+                android:id="@+id/rb_meiri_fragment_main_one" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:button="@null"
+                android:drawableTop="@drawable/selector_recommemd_three"
+                android:text="云音乐新歌榜"
+                android:checked="false"
+                android:id="@+id/rb_yunyinyue_fragment_main_one" />
+        </RadioGroup>
+
+
+
+        <include
+            layout="@layout/fragment_main_one_tuijian"/>
+        <include
+            layout="@layout/fragment_main_one_dujia"/>
+        <include
+            layout="@layout/fragment_main_one_diantai"/>
+        <include
+            layout="@layout/fragment_main_one_zuixin"/>
+        <include
+            layout="@layout/fragment_main_one_tuijianmv"/>
+    </LinearLayout>
+
+
+
+</ScrollView>

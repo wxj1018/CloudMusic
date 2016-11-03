@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RadioGroup
+        android:id="@+id/rg_mf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/rbtn_d_mf"
+            style="@style/VPbtnStyle"
+            android:text="动态"/>
+        <RadioButton
+            android:id="@+id/rbtn_n_mf"
+            style="@style/VPbtnStyle"
+            android:text="附近"/>
+        <RadioButton
+            android:id="@+id/rbtn_f_mf"
+            style="@style/VPbtnStyle"
+            android:text="好友"/>
+    </RadioGroup>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_myfriend"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v4.view.ViewPager>
+
+</LinearLayout>

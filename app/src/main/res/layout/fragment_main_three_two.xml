@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/colorwrite">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:layout_weight="1"
+            android:drawableTop="@drawable/lay_icn_artist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="外语世界"
+            android:button="@drawable/selector_button"
+            android:gravity="center"
+            android:id="@+id/button" />
+
+        <RadioButton
+            android:layout_weight="1"
+            android:drawableTop="@drawable/lay_icn_artist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="二次元"
+            android:button="@drawable/selector_button"
+            android:gravity="center"
+            android:id="@+id/button4" />
+
+        <RadioButton
+            android:layout_weight="1"
+            android:drawableTop="@drawable/lay_icn_artist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="旅途|城市"
+            android:button="@drawable/selector_button"
+            android:gravity="center"
+            android:id="@+id/button3" />
+
+        <RadioButton
+            android:layout_weight="1"
+            android:drawableTop="@drawable/lay_icn_artist"
+            android:button="@drawable/selector_button"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="娱乐|影视"
+            android:id="@+id/button2" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:layout_weight="1"
+            android:drawableTop="@drawable/lay_icn_artist"
+            android:button="@drawable/selector_button"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3D|电子"
+            android:id="@+id/button123" />
+
+        <RadioButton
+            android:layout_weight="1"
+            android:drawableTop="@drawable/lay_icn_artist"
+            android:button="@drawable/selector_button"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="校园教育"
+            android:id="@+id/button434" />
+
+        <RadioButton
+            android:layout_weight="1"
+            android:drawableTop="@drawable/lay_icn_artist"
+            android:background="@color/colorwrite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="亲子宝贝"
+            android:button="@drawable/selector_button"
+            android:gravity="center"
+            android:id="@+id/button32" />
+
+        <RadioButton
+            android:layout_weight="1"
+            android:drawableTop="@drawable/lay_icn_artist"
+            android:button="@drawable/selector_button"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="广播剧"
+            android:id="@+id/button232" />
+    </LinearLayout>
+
+
+</LinearLayout>

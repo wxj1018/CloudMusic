@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.StarUserActivity">
+    <LinearLayout
+        android:padding="16px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:background="@android:color/holo_red_dark"
+        >
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/actionbar_back"
+            android:layout_marginRight="16px"
+            android:background="@null"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="明星用户"
+            android:textSize="20sp"/>
+    </LinearLayout>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            style="@style/VPbtnStyle"
+            android:text="明星" />
+
+        <RadioButton
+            style="@style/VPbtnStyle"
+            android:text="DJ" />
+
+        <RadioButton
+            style="@style/VPbtnStyle"
+            android:text="网易音乐人" />
+    </RadioGroup>
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/vp_staruser"></android.support.v4.view.ViewPager>
+</LinearLayout>

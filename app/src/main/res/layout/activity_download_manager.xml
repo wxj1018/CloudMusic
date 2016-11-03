@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_red_dark">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/fb"
+            android:onClick="backToMyMusic"
+            android:padding="16px"
+            android:background="@android:color/holo_red_dark"/>
+
+        <TextView
+            style="@style/BackBarTextViewStyle"
+            android:text="下载管理"
+            android:textColor="@android:color/background_light"/>
+
+
+    </LinearLayout>
+
+    <RadioGroup
+        android:id="@+id/rg_activity_download_manager"
+        style="@style/RadioGroupStyle">
+
+        <RadioButton
+            android:id="@+id/rbtn_single2_download_manager"
+            style="@style/RadioButtonStyle"
+            android:text="单曲"/>
+
+        <RadioButton
+            android:id="@+id/rbtn_broadcasting_station_download_manager"
+            style="@style/RadioButtonStyle"
+            android:text="电台"/>
+
+        <RadioButton
+            android:id="@+id/rbtn_mv_download_manager"
+            style="@style/RadioButtonStyle"
+            android:text="MV"/>
+
+        <RadioButton
+            android:id="@+id/rbtn_downloading_download_manager"
+            style="@style/RadioButtonStyle"
+            android:text="下载中"/>
+
+    </RadioGroup>
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_download_manager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>
